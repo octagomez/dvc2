@@ -1,4 +1,4 @@
 [core]
     remote = storage
 ['remote "storage"']
-    url = /content/drive/MyDrive/dvc2/dvcstore
+    url = /content/drive/MyDrive/dvc3/dvcstore
